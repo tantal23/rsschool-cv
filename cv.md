@@ -10,6 +10,9 @@ ___
 I want to master a new profession for myself. I love and know how to learn. I'm good at teamwork. No work experience, but there is a great desire.
 ___
 ###_Code Examples_
+function multiply(a, b) {
+  return a * b
+}
 ___
 ###_Education_
  I graduated from  Vitebsk State Order of Peoples’ Friendship Medical University with a degree in pharmacist.
