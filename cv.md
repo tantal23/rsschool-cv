@@ -1,5 +1,5 @@
 ## ANASTASIYA ROMANENKO
- ___
+
 ### _Contacts_
 - Location: Gomel, Belarus
 - Phone: +375 33 375-05-18
