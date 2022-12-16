@@ -18,4 +18,4 @@ function multiply(a, b) {
  I graduated from  Vitebsk State Order of Peoples’ Friendship Medical University with a degree in pharmacist.
   ___
 ### _Language_
- My English is very bad. Thank you for having a translator.  
+ My English is very bad. Thanks for having an online translator.
